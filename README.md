@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yonas-jemberu-kebede
-- 👀 I’m interested in web and mobile application
+- 👀 I’m interested in web and mobile application development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any mobile and web app development
 - 📫 How to reach me jemberuyonas01@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
